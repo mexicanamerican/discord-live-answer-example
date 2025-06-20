@@ -133,3 +133,4 @@ Here is a loom video showing the setup of the Discord bot and the Voiceflow proj
 
 [https://www.loom.com/share/5b96b4f52b494b64bd82a123f4f23c7f](https://www.loom.com/share/5b96b4f52b494b64bd82a123f4f23c7f)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=voiceflow-community_discord-live-answer-example&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=voiceflow-community_discord-live-answer-example)
